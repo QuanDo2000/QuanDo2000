@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 🌱 Me preferred development environment is VSCode, Vim. And my favorite languages are C++, Python.
 - 🤔 I’m interested in learning about Vim, cyber, and any thing code.
 - 📫 How to reach me: [Personal Email](minhquand3@gmail.com), [School Email](doqn@mail.uc.edu)
+- ⚡ Fun fact:
+  - I like to read manga in my free time and I am following around 50+ manga series.
