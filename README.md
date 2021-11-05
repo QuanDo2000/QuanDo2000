@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on finishing my junior year at UC.
+- 🌱 Me preferred development environment is VSCode, Vim. And my favorite languages are C++, Python.
+- 🤔 I’m interested in learning about Vim, cyber, and any thing code.
+- 📫 How to reach me: [Personal Email](minhquand3@gmail.com), [School Email](doqn@mail.uc.edu)
