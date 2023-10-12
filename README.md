@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on finishing my senior year at the University of Cincinnati.
+- 🔭 I’m currently working on my personal dotfiles and development environment configurations.
 - 🌱 My preferred development environment is VSCode, Vim. And my most used languages are C/C++, Python.
-- 🤔 I’m interested in learning anything about Computer Science. Current interests include front-end development (React, Angular,...) and tech stacks.
+- 🤔 I’m interested in learning anything about Computer Science and tech. Current interests include full-stack development and system design.
 - 📫 How to reach me: [Personal Email](minhquand3@gmail.com), [School Email](doqn@mail.uc.edu)
