@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working a full-time job and doing some casual coding practice on the side.
-- 🌱 My preferred development environment is VSCode, Vim. And my most used languages are C/C++, Python.
-- 🤔 I’m interested in learning anything about Computer Science and tech. Current interests include system design and coding techniques.
-- 📫 How to reach me: [Personal Email](minhquand3@gmail.com), [School Email](doqn@mail.uc.edu)
+- 🌱 My preferred development environment is Vim. And my most used languages is Golang. I also have previous experience with C/C++, and Python.
+- 🤔 I’m interested in learning anything about Computer Science and tech. Current interests include system design and performance, low-level programming. Also slightly interested in Zig language.
+- 📫 How to reach me: [Personal Email](minhquand3@gmail.com)
